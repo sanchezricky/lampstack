@@ -1,9 +1,9 @@
 # LAMP stack - Linux Apache MySQL and PHP
 
-### Agena
+### Agenda
 
 1. Create database server running MySQL
-1. Provision webserver Running the Wordpress application
+1. Provision webserver Running the Wordpress application within Vagrant
 
 ### Tools used
 
@@ -11,3 +11,5 @@
 * **A**apache - HTTP server
 * **M**ySQL - Relational Database Management System
 * **P**HP - Hypertext Preprocesser
+
+Vagrant / VM ware
