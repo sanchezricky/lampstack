@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-# This script will run alongside the data.sh script to install a LAMP stack
 
 set -euo pipefail
 
