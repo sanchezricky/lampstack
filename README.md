@@ -4,6 +4,7 @@
 
 1. Create database server running MySQL
 1. Provision webserver Running the Wordpress application within Vagrant
+1. Wordpress blog
 
 ### Tools used
 
