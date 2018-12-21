@@ -9,7 +9,7 @@
 ### Tools used
 
 * **L**inux - Ubuntu Xenial Xerus 16.04.1
-* **A**apache - HTTP server
+* **A**pache - HTTP server
 * **M**ySQL - Relational Database Management System
 * **P**HP - Hypertext Preprocesser
 
